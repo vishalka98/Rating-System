@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Driver Aggregate Rating</title>
+</head>
+
+<body>
+
+       <form  action="/AggregateRating" method="POST">
+        <div class="rating-box">
+        <h1>Aggregate Rating</h1>
+        <input type="text" class="user" name="ratingOf" placeholder="Driver/Customer[0/1]" autocomplete="off"  ><br>
+        <input type="text" class="user" name="username" placeholder="Enter user Name" autocomplete="off"  ><br>
+       
+   
+          <button type="submit" class="user" >submit</button>
+          <h2>Aggregate Rating: <%= Aggrating %></h2>
+        </div>
+       </form>
+
+           
+       
+    
+</body>
+</html>
