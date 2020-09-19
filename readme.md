@@ -56,4 +56,10 @@ in second field input the username of whomw you rating
 in third fild enter the rating out of 5
 
 
+Approch:
+
+Created 2 separate collectioin for store rating of customer and driver seperatly.
+ignoring that user can't check who gives rating. Added a filed whom you rating according to that data will store in that collection and at time of fetch user can simply fetch data.
+
+
 
