@@ -6,6 +6,9 @@ https://frozen-ravine-40047.herokuapp.com/
 for finding Aggregated rating
 https://frozen-ravine-40047.herokuapp.com/Aggregatedrating
 
+
+Github Link: https://github.com/vishalka98/Rating-System/tree/master
+
 for checking cummulative rating 
 0 - if you are driver,
 1 - if you are customer
